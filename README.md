@@ -21,7 +21,7 @@
 👤 **Ali Kahwaji**
 
 * :school: [MSteams](https://teams.microsoft.com/l/channel/19%3ad8a4aa8ce3c34cef88897aa8955767f3%40thread.tacv2/General?groupId=fc1c6d2c-7a94-4fe4-b9c8-a930f6d56956&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
-* :e-mail: [Email]<ali.kahwaji@nmit.ac.nz>
+* :e-mail: <ali.kahwaji@nmit.ac.nz>
 
 
 ## 🤝 Tutor Feedback
