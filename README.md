@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to lab 1 👋</h1>
+<h1 align="center">Welcome to SDV503 Workflow 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
@@ -20,8 +20,8 @@
 
 👤 **Ali Kahwaji**
 
-* :school: [MSteams]()
-* :e-mail: [Email]()
+* :school: [MSteams](https://teams.microsoft.com/l/team/19%3ad8a4aa8ce3c34cef88897aa8955767f3%40thread.tacv2/conversations?groupId=fc1c6d2c-7a94-4fe4-b9c8-a930f6d56956&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
+* :e-mail: [Email](ali.kahwaji@nmit.ac.nz)
 
 
 ## 🤝 Tutor Feedback
