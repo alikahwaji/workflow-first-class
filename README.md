@@ -48,31 +48,18 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:four:|Do NOT Share the lab repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
-## :page_facing_up: Lab 5 Description
+## :page_facing_up: Workflow Description
 
-:arrow_right: `Create a function that takes an array of arrays with numbers. Return a new (single) array with the largest numbers of each.`
+:arrow_right: `Print Hello World!`
 
 Example: 
 ```javascript
-    const result = MyFunction([[4, 2, 7, 1], [20, 70, 40, 90], [1, 2, 0]])
-    console.log(result) //[7, 90, 2]
+    console.log("Hello World!")
 ``` 
-```javascript
-   const result = MyFunction([[-34, -54, -74], [-32, -2, -65], [-54, 7, -43]])
-   console.log(result) //[-34, -2, 7]
-```
 
-:arrow_right: `Create a function that flips an array and store it with the original without repeating the last item of the given array.`
+:arrow_right: `Install Quokka.js extension for this class.`
 
-Example:
-```javascript
-   const result = MyFunction([0, 2, 4, 6])
-   console.log(result) //[0, 2, 4, 6, 4, 2, 0]
-```
-```javascript
-   const result = MyFunction([3, 5, 6, 7, 8])
-   console.log(result) //[3, 5, 6, 7, 8, 7, 6, 5, 3]
-```
+
 ## :books: Resources 
 
 |[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[W3schools](https://www.w3schools.com/js/default.asp)|[JavaScript Eloquent](https://eloquentjavascript.net/)|
